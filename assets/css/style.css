@@ -575,6 +575,12 @@ html, body {
 .icon:hover {
     background-color: #fff;
 }
+a:hover {
+    color: #0268a4;
+}
+.change-color{
+    color: #333;
+}
 
 .site-footer a {
     transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
